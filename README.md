@@ -2,6 +2,8 @@
 
 Comprehensive PowerShell GUI for managing pfBlockerNG on pfSense firewalls.
 
+<img width="1990" height="1185" alt="2026-01-24 16_15_30-SysAdminDoc_PfblockerngManager_ Comprehensive GUI for managing pfBlockerNG on pf" src="https://github.com/user-attachments/assets/790a006b-2b24-4724-9974-f38d5723cbe2" />
+
 ## What's New in v3.5
 
 ### Fixed Whitelist/Blocklist
